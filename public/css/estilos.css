@@ -1,0 +1,36 @@
+div.body{
+    padding-top: 15px;
+}
+h2.titulo{
+    padding-bottom: 10px;
+    text-align: center;
+}
+h4.titulo{
+   text-align: center;
+}
+
+table.table{
+    border: solid rgba(219, 219, 219, 0.527) 1px;
+}
+
+.botaoFiltrar{
+    text-align: center;
+    padding-left: 205px;
+}
+
+.novofornecedorBotao{
+    text-align: right;
+    padding-top: 5px;
+    margin-bottom: -1px;
+}
+
+.telefone{
+    margin-bottom: 5px;
+}
+
+.botaoApagar:hover{
+    color: rgb(196, 82, 82);
+}
+/* *{
+    border: solid red 1px;
+}*/
